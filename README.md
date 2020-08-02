@@ -1,2 +1,2 @@
 # PigsAndBuls
-Simple game developed in the first yea of university using python
+Simple game developed in the first year of university using python
